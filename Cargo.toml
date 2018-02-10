@@ -1,0 +1,6 @@
+[package]
+name = "Rustaceans"
+version = "0.1.0"
+authors = ["2vg"]
+
+[dependencies]
